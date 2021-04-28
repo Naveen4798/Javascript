@@ -1,0 +1,4 @@
+/home/naveen/sonar-custom-rules-examples/javascript-custom-rules/src/main/java/org/sonar/samples/javascript/checks/ForbiddenFunctionUseCheck.java
+/home/naveen/sonar-custom-rules-examples/javascript-custom-rules/src/main/java/org/sonar/samples/javascript/JavaScriptCustomRulesPlugin.java
+/home/naveen/sonar-custom-rules-examples/javascript-custom-rules/src/main/java/org/sonar/samples/javascript/checks/OtherForbiddenFunctionUseCheck.java
+/home/naveen/sonar-custom-rules-examples/javascript-custom-rules/src/main/java/org/sonar/samples/javascript/JavaScriptCustomRulesDefinition.java
